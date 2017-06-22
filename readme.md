@@ -8,7 +8,7 @@ Have user select region.
 
 -   Mouse spins globe?
 
-Show culturally relevant thing for that region.
+Show culturally relevant scale-giving thing for that region.
 
 -   Backend configurable.
 
